@@ -1,4 +1,4 @@
-# Jamstack-Auth(Learning Purpose)🍕
+# Jamstack-Auth🍕
 
 Auth using netlify identity. Store user data to netlify.
 
